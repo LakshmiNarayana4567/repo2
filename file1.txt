@@ -1,1 +1,2 @@
 first file created.
+this file is modified in another folder and committed. but I am trying to commit this without taking a pull for that change.
