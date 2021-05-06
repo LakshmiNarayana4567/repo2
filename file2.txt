@@ -1,2 +1,3 @@
 second file created.
 this file updated in the place wherer it is created.
+file 2 updated without taking pull of another commit.
