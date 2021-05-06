@@ -4,3 +4,5 @@ this file is modified in another folder and committed. but I am trying to commit
 
 first file modified in another folder.
 
+first file modified in another folder after updating second file in another folder. Pushing this without taking the pull of that change.
+
